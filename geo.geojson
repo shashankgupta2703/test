@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "letter": "G",
+        "id" : 1,
         "color": "blue",
         "rank": "7",
         "ascii": "71"
@@ -29,6 +30,7 @@
       "type": "Feature",
       "properties": {
         "letter": "o",
+        "id" : 2,
         "color": "red",
         "rank": "15",
         "ascii": "111"
@@ -53,6 +55,7 @@
       "type": "Feature",
       "properties": {
         "letter": "o",
+        "id" : 2,
         "color": "yellow",
         "rank": "15",
         "ascii": "111"
@@ -77,6 +80,7 @@
       "type": "Feature",
       "properties": {
         "letter": "g",
+         "id" : 1,
         "color": "blue",
         "rank": "7",
         "ascii": "103"
@@ -104,6 +108,7 @@
       "type": "Feature",
       "properties": {
         "letter": "l",
+         "id" : 3,
         "color": "green",
         "rank": "12",
         "ascii": "108"
@@ -121,6 +126,7 @@
       "type": "Feature",
       "properties": {
         "letter": "e",
+         "id" : 4,
         "color": "red",
         "rank": "5",
         "ascii": "101"
