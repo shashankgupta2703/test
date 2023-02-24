@@ -3,6 +3,7 @@
   "features": [
     {
       "type": "Feature",
+       "id": 1,
       "properties": {
         "letter": "G",
         "id" : 1,
@@ -28,6 +29,7 @@
     },
     {
       "type": "Feature",
+       "id": 2,
       "properties": {
         "letter": "o",
         "id" : 2,
@@ -53,6 +55,7 @@
     },
     {
       "type": "Feature",
+       "id": 3,
       "properties": {
         "letter": "o",
         "id" : 2,
@@ -78,6 +81,7 @@
     },
     {
       "type": "Feature",
+       "id": 4,
       "properties": {
         "letter": "g",
          "id" : 1,
@@ -106,6 +110,7 @@
     },
     {
       "type": "Feature",
+       "id": 5,
       "properties": {
         "letter": "l",
          "id" : 3,
@@ -124,6 +129,7 @@
     },
     {
       "type": "Feature",
+       "id": 6,
       "properties": {
         "letter": "e",
          "id" : 4,
